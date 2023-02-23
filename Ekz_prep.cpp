@@ -180,5 +180,6 @@ int main()
     SotrM(mtr1,n1,m1);
     SotrM(mtr2,n2,m2);
     Print(mtr1,n1,m1,mtr2,n2,m2);
+    cout << "Helllo" << endl;
 
 }
