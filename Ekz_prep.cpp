@@ -167,7 +167,7 @@ int main()
     //         f2 << mas[i] << "*";
     //     }
     // }
-    // f.close();
+/////   // f.close();
     // f2.close();
 
     //3
@@ -179,7 +179,7 @@ int main()
     readF(str,mtr1,n1,m1,mtr2,n2,m2);
     SotrM(mtr1,n1,m1);
     SotrM(mtr2,n2,m2);
-    Print(mtr1,n1,m1,mtr2,n2,m2);
+    Print(mt r1,n1,m1,mtr2,n2,m2);
     cout << "Helllo" << endl;
 
-}
+}	q
